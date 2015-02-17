@@ -1,5 +1,5 @@
-# Story Telling Website
+# Helping Hands LLC
 
-This my application for my website!
+Website that informs oneself on a company that aids special needs children
 
-by [Michael Orlando]
+by Michael Orlando
